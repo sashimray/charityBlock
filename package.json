@@ -1,0 +1,24 @@
+{
+  "name": "charityblock",
+  "version": "1.0.0",
+  "description": "Chaincode for Charity blockchain using hyperledger fabric ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sashimray/charityBlock.git"
+  },
+  "keywords": [
+    "Blockchain",
+    "Hyperledger",
+    "fabric"
+  ],
+  "author": "Shishila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sashimray/charityBlock/issues"
+  },
+  "homepage": "https://github.com/sashimray/charityBlock#readme"
+}
